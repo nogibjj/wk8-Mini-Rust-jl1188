@@ -1,4 +1,4 @@
-# wk6-mini-rust-jl1188:
+# wk8-mini-rust-jl1188:
 A Rust Mini Project command-line tool that reverse the binary bits of an integer. 
 
 ## References
